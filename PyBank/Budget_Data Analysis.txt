@@ -1,0 +1,6 @@
+Financial Analysis
+Total Months: {months}
+Total: ${net_profit}
+Average Revenue Change: ${average_change}
+Greatest Increase in Revenue: 
+Greatest Decrease in Revenue: 
